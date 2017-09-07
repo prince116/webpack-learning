@@ -1,0 +1,13 @@
+@import url("./header.scss");
+
+$background-color: green;
+
+body {
+    background: $background-color;
+}
+
+.test {
+
+    background: url('./images/GTA.jpg');
+
+}
